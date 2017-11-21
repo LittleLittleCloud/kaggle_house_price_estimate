@@ -1,7 +1,7 @@
 # kaggle_house_price_estimate
 competition url: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-##File descriptions
+## File descriptions
 
 * train.csv - the training set
 * test.csv - the test set
